@@ -14,6 +14,7 @@ Adaptation policies would still be necessary. Mitigation reduces the scale of fu
 These differences are clearer in the Kaya graphs. At 2100, my current scenario shows lower values than the baseline for global population, GDP per capita, energy intensity of GDP, carbon intensity of final energy, and consequently CO₂ emissions from energy. Together, these changes help explain why projected warming falls from 3.3°C to 2.6°C. In addition there is high dropping plotted in the Co2 from energy because it is the product from four other graphs, i.e., Global Population, GDP per Capita, Energy Intensity of GDP, and Carbon Intensity of Energy. The view of the Kaya graphs use this link: https://en-roads.climateinteractive.org/scenario.html?v=26.9.0&p516=150&p517=173&p520=-77&p47=2.5&p50=1.9&p373=38&p375=38&p63=9.3&p235=0.7&g0=2&g1=62&gv=kaya 
 
 **Time to simulate and analyze your own scenario
+- My en-roads link: https://en-roads.climateinteractive.org/scenario.html?v=26.9.0&p516=79&p517=41&p520=-38&p519=-11&p521=-9&p35=1&p39=96&p50=0.9&p373=26&p375=13&p63=9.7&p235=1&p64=2.1&p236=100&p60=63&p417=32&p61=60&p57=-7.5&p67=36 
 - Reflection questions: 
   - Winners/Losers: Who would be the biggest winners and losers globally in your proposed future? Create a table with two columns for winners and losers.   
   - Surprises: What surprised you about the behavior of the energy and climate system as captured in En-ROADS? For example, what actions had a bigger or smaller effect than you thought? 
@@ -59,6 +60,8 @@ The species losing more than 50% of climatic Range graph shows that invertebrate
 
   - Personal actions
       Personally, I can reduce unnecessary energy consumption, use public or low-carbon transport where possible, and make more sustainable purchasing decisions, but as well as food choices to more plant-baed consumption, this food choice if done in large scale would reduce reforestations caused by agriculture and animal keeping. I can also support climate policies, participate in community initiatives, discuss climate solutions with others, and encourage my workplace or educational institution to improve its energy efficiency and use cleaner energy. Individual actions are limited on their own, but they can contribute to the wider political, institutional, and social changes required.
+
+
 
 
 
